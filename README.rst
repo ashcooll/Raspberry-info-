@@ -11,11 +11,6 @@ by fixing bugs, planning new features, writing documentation, writing
 tests, or even managing the project. Ready to contribute? Read our
 `Getting Started <https://raspberry-io.readthedocs.org/>`_ document.
 
-Travis CI Build Status
-----------------------
-
-.. image:: https://travis-ci.org/python/raspberryio.png
-   :target: https://travis-ci.org/python/raspberryio
 
 Submit an issue
 ------------------------
