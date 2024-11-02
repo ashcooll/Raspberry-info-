@@ -7,3 +7,4 @@ install:
   - pip install -r requirements/dev.txt
 script:
   - python manage.py test
+
